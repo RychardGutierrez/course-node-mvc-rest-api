@@ -4,7 +4,7 @@ Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authen
 
 ### Content
 
-- [ ] Node.js Basics & Basic Core Modules
+- [x] Node.js Basics & Basic Core Modules
 - [ ] Parsing Requests & Sending Responses
 - [ ] Rendering HTML Dynamically (on the Server)
 - [ ] Using Express.js
